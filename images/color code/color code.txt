@@ -1,0 +1,11 @@
+White   : ffffff
+light blue : 00bbf2
+gray  : e4e4e4
+green : d7e023
+blue  : 3b96d6
+dark gray : f3f3f3
+black : 484848
+gray bg : e3e3e3
+light gray : f5f5f5
+blue  : 3b96d6
+
